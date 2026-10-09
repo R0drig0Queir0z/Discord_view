@@ -7,16 +7,7 @@ Compartilhamento de tela entre amigos, direto do navegador. A pessoa que transmi
 - Node.js 20 ou superior
 - Navegador atualizado com suporte a WebRTC e captura de tela
 
-## Executar localmente
-
-```sh
-npm install
-npm start
-```
-
-Abra <http://localhost:3000>. Para testar o link, abra-o em outro navegador ou dispositivo.
-
-No PowerShell do Windows, se a execução de scripts bloquear `npm`, use `npm.cmd install` e `npm.cmd start`.
+⚠️ Infelizmente essa versão não foi ao ar, foi feito para usar inicialmente com meus amigos entrentando já estão utilizando outras formas e para evitar o tal do trabalho... não deixei online, funciona localmente mas não foi adptado para online, pois os links ainda usam o localhost.
 
 ## O que esta primeira versão faz
 
